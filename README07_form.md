@@ -7,6 +7,10 @@
 # e -> 이벤트 받음, 상태의 값을 변경하기 위해 setName 함수를 사용하며 
 # 사용자가 입력한 값을 상태값으로 적용하기 위해 e.target.value를 사용한다
 
+# <form onSubmit={(e)=>{e.preventDefault()}}>
+# form은 새로고침이 일어나는 속성을 가지고 있다
+# 그래서 이를 막기위해 e.preventDefault()를 사용함
+
 ![image](https://github.com/sonahyeonn/myreact/assets/147791395/3cd87778-154d-4148-ae3e-63114bec1614)
 
 
