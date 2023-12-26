@@ -8,6 +8,8 @@ npm install --save @fortawesome/react-fontawesome
 # import 해줄것 (regular면 regular, solid면 solid로 바꿔준다)
 ![image](https://github.com/sonahyeonn/myreact/assets/147791395/2086199e-794f-4c48-98e2-e06d0c5fe161)
 
+# icon에 들어가서 원하는 아이콘을 찾는다
+
 ![image](https://github.com/sonahyeonn/myreact/assets/147791395/e549294a-e195-473f-a635-ade2e067e9cb)
 ![image](https://github.com/sonahyeonn/myreact/assets/147791395/1fc39185-ace0-4e0f-8607-6d8ed0d34844)
 
