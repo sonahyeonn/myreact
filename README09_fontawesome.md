@@ -5,8 +5,9 @@ npm i --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
 ```
+
 # import 해줄것 (아이콘 이름변경 및 형태를 regular면 regular, solid면 solid로 바꿔준다)
-![image](https://github.com/sonahyeonn/myreact/assets/147791395/2086199e-794f-4c48-98e2-e06d0c5fe161)
+![image](https://github.com/sonahyeonn/myreact/assets/147791395/8ba81d17-82a2-4d74-8ccd-ea731a097c11)
 
 # icon에 들어가서 원하는 아이콘을 찾는다
 
@@ -19,7 +20,6 @@ npm install --save @fortawesome/react-fontawesome
 ![image](https://github.com/sonahyeonn/myreact/assets/147791395/d56cfc2c-cf57-41e5-b557-980897935b97)
 
 ```
-# Free icons styles
 npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/free-brands-svg-icons
