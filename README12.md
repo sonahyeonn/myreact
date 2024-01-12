@@ -17,3 +17,5 @@ http://localhost:3000/products/1
 
 # url주소에서 파라미터는 제일 뒤에 있는 1이라는 숫자이다. id값이 들어와 있다.
 # 파라미터 값을 읽어와야 할 때 useParams - hook이다
+
+![image](https://github.com/sonahyeonn/react/assets/147791395/1e42731b-acdd-46cf-a9f8-2470b5721d40)
