@@ -20,3 +20,8 @@ http://localhost:3000/products/1
 
 ![image](https://github.com/sonahyeonn/react/assets/147791395/dc8497b2-42c4-4634-a89e-bf66b3a6a1ad)
 
+# 문법 -> ?
+```
+<img src={product?.img} alt="" />
+```
+product?.img -> product가 있으면 product.img를 출력하라
